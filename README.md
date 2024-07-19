@@ -1,2 +1,2 @@
 # Automated-Remote-Control-AC-Project
-The following code
+The code under "Project_Fan.ino" is for the automated/remote control AC system project. 
